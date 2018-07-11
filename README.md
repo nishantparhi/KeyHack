@@ -4,4 +4,4 @@
 
 	'python KeyHack.py'
 
-Please use this scirtp in a good way. I am not responsible for your actions.
+Please use this script in a good way. I am not responsible for your actions.
